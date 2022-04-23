@@ -5,6 +5,7 @@
 <h5 align="center">自动抓取tg频道、订阅地址、公开互联网上的ss、ssr、vmess、trojan节点信息，聚合去重测试可用性后提供节点列表</h5>
 <h5 align="center">目前最新稳定版： v0.6.1 Gravy</h5>
 <h5 align="center">目前最新开发版： v0.6.2 Gravy</h5>
+<h5 align="left">效果不佳 停止开发</h5>
 <p align="center">
 
   <a href="https://goreportcard.com/report/github.com/daycat/proxypool">
